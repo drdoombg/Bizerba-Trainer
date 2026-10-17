@@ -1,0 +1,17 @@
+{
+  "name": "Labeller Line Trainer — Bizerba GLM-I",
+  "short_name": "Labeller Trainer",
+  "description": "A browser replica of the Bizerba GLM-I weigh-price labeller terminal: menu tree, weight classes, print channels, hardware and fault drills. Runs offline from one file.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#eef0f2",
+  "theme_color": "#1f5c94",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

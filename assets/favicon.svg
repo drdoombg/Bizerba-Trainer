@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Labeller Line Trainer">
+  <rect x="56" y="56" width="400" height="400" rx="108" fill="#1b2128"/>
+  <rect x="112" y="150" width="288" height="248" rx="14" fill="#ffffff"/>
+  <rect x="130" y="170" width="252" height="32" rx="6" fill="#f2b705"/>
+  <rect x="130" y="220" width="198" height="22" rx="5" fill="#9aa3ab"/>
+  <g fill="#101418">
+    <rect x="130" y="268" width="10" height="88"/>
+    <rect x="146" y="268" width="6" height="88"/>
+    <rect x="158" y="268" width="14" height="88"/>
+    <rect x="178" y="268" width="6" height="88"/>
+    <rect x="190" y="268" width="10" height="88"/>
+    <rect x="206" y="268" width="18" height="88"/>
+    <rect x="230" y="268" width="6" height="88"/>
+    <rect x="242" y="268" width="10" height="88"/>
+    <rect x="258" y="268" width="6" height="88"/>
+    <rect x="270" y="268" width="16" height="88"/>
+    <rect x="292" y="268" width="6" height="88"/>
+    <rect x="304" y="268" width="10" height="88"/>
+    <rect x="320" y="268" width="6" height="88"/>
+    <rect x="332" y="268" width="14" height="88"/>
+    <rect x="352" y="268" width="6" height="88"/>
+    <rect x="364" y="268" width="10" height="88"/>
+  </g>
+</svg>
